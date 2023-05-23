@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgG8p8MAgSyNW7oj9mctGyLqLgYTYcPI0GKZaWkrw1b4r8sdugKVXeJrJNvHw3Q7vtZY7/fnlRoFQOk2laa5+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MINUMITHRABALACHANDA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINUMITHRABALACHANDA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MINUMITHRABALACHANDA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
